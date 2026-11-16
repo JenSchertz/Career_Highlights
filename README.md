@@ -122,6 +122,7 @@ My passion is helping organizations successfully navigate the intersection of te
 - Microsoft
 - Salesforce
 - Cisco
+- CSG Systems/NEC
 - Akamai
 - Samsung
 - NTT Data
@@ -133,6 +134,7 @@ My passion is helping organizations successfully navigate the intersection of te
 
 - Walmart
 - Panera Bread
+- Nordstrom
 - InterContinental Hotels Group
 - Southwest Airlines
 - United Airlines
