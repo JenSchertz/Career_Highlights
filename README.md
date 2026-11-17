@@ -25,11 +25,11 @@
 
 Technology executive with more than 20 years of experience leading customer success, consulting, cloud modernization, cybersecurity, AI enablement, enterprise software adoption, and digital transformation initiatives across Fortune 500 organizations.
 
-My career spans multiple generations of enterprise technology—from mainframe computing and business analysis to web development, enterprise architecture, cloud transformation, cybersecurity modernization, consulting leadership, customer success, and AI-driven business outcomes.
+My career spans multiple generations of enterprise technology, from mainframe computing and business analysis to web development, enterprise architecture, Engineering Information Management, IT Service Management (ITSM), consulting leadership, infrastructure orchestration, cloud transformation, cybersecurity modernization, customer success, and AI-driven business outcomes.
 
 I have built consulting organizations, led strategic enterprise accounts, owned P&L performance, protected and expanded recurring revenue, and partnered with executive stakeholders across financial services, healthcare, software, energy, government, transportation, retail, and hospitality industries.
 
-My passion is helping organizations successfully navigate the intersection of technology innovation, cybersecurity, cloud, AI, and customer success while ensuring measurable business value.
+My passion is helping organizations successfully navigate the intersection of technology innovation, cybersecurity, cloud, AI, customer success, infrastructure modernization, and modern data security practices, including Data Security Posture Management (DSPM), while ensuring measurable business value.
 
 ---
 
